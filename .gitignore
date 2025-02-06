@@ -1,0 +1,8 @@
+/wordpress/*
+additional
+certs/*
+layouts
+logs/nginx/*
+.DS_Store
+.idea
+.env
